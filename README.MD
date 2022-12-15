@@ -35,3 +35,5 @@ in here the claim name is defined in `database-persistent-volume-claim` file go 
     secret_name - name of secret, this will be used in pod config
 
     from-literal - will add the secret from this command not from the file?
+
+NOTE: this project useses google could as the deployment env
